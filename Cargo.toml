@@ -1,0 +1,11 @@
+[package]
+name = "ds120"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+csv = "1.1"
+ndarray = "0.15"
+petgraph = "0.6"
+itertools = "0.12"
+rayon = "1.8"
